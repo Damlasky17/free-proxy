@@ -183,5 +183,3 @@ If there are no working proxies with the provided parameters, the script will ra
 [MIT](https://github.com/jundymek/free-proxy/blob/master/LICENSE)
 
 **Free Software!**
-
-
